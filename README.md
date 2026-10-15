@@ -1,6 +1,6 @@
 ### Hosein Behrad
 
-Business analyst who builds the automation behind the analysis. MBA, Sharif University of Technology. I turn messy real-world inputs (bank SMS, lab test reports, government portals, chat groups) into decisions and actions.
+Business analyst who builds the automation behind the analysis. I turn messy real-world inputs (bank SMS, lab test reports, government portals, chat groups) into decisions and actions.
 
 **Website and case studies:** https://hoseinbehrad.github.io · **LinkedIn:** https://linkedin.com/in/hoseinbehrad
 
