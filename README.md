@@ -22,5 +22,7 @@ Business analyst who builds the automation behind the analysis. I turn messy rea
 
 #### Research
 
-- e-WOM sentiment and sales, *Journal of Marketing Theory and Practice* (accepted)
+- [The impact of e-WOM sentiment on sales: an attribute level analysis of search and experience attributes](https://doi.org/10.1080/10696679.2026.2754954), *Journal of Marketing Theory and Practice*, 2026
 - Image-text congruence in Airbnb listings, *European Journal of Marketing* (under review)
+
+All publications: [Google Scholar](https://scholar.google.com/citations?user=Sr8PuoIAAAAJ&hl=en)
